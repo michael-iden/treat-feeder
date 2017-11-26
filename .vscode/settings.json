@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/miden/.platformio/penv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/miden/Library/Android/sdk/tools:/Users/miden/Library/Android/sdk/platform-tools"
+    },
+    "files.associations": {
+        "array": "cpp"
+    }
+}
