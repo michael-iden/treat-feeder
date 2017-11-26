@@ -81,8 +81,6 @@ void updateTimerResetRate(AdafruitIO_Data *data) {
 
   timer.deleteTimer(treatTimer);
   treatTimer = timer.setInterval(treatLockoutTime, removeTreatLockout);
-
-  
 }
 
 void readMotionDetector() {
